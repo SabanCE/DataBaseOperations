@@ -1,1 +1,2 @@
-gor.png
+![Uygulama Görseli](gor.png)
+
